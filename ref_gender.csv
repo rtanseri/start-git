@@ -1,0 +1,4 @@
+﻿id_data_load;insert_time;insert_type;code_gender;short_name_gender;long_name_gender;description_gender;id_parent_gender;code_parent_gender;group1_gender;group2_gender;group3_gender
+2;01/01/2023;MANUAL;Male;Male;Male;NULL;NULL;NULL;NULL;NULL;NULL
+2;01/01/2023;MANUAL;Female;Female;Female;NULL;NULL;NULL;NULL;NULL;NULL
+;;;;;;;;;;;
