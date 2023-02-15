@@ -1,2 +1,0 @@
-Vendor 1
-Vendor 2
